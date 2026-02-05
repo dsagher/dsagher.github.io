@@ -1,9 +1,10 @@
 ---
 layout: default
-title:  "On Distraction & Discomfort"
+title:  "On Discomfort & Distraction"
 date:   2026-01-11 12:41:06 -0500
 ---
-# On Distraction & Discomfort
+# On Discomfort & Distraction
+*January 11th, 2026*
 
 I’m often lured towards things that don’t just cost attention, but consume it. Gawking at chaos on X in the morning.  Career comparisons on LinkedIn during the day. Sleep optimization YouTube videos before bed. 
 
