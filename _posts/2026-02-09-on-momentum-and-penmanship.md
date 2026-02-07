@@ -10,7 +10,7 @@ When I realize my life is moving forward at all, my instinct is to make it move 
 
 Last November 19th marked one year since my final chemotherapy session. While the day was unremarkable, how much everything had changed was not. I had been so sick, so recently. But now I was pursuing a master’s, exploring entrepreneurship, and dating. Life started to feel more poetic, less tragic.
 
-### Gaining Speed
+## Gaining Speed
 
 But instead of calmly noticing the beautiful starkness of my circumstances, I felt the urgent need to lean in and flip the “go-time” switch. “Who can I reach out to for the first time?” “What can I post online that will plant the flag?” Somewhere in the back of my mind, I felt like I was going to launch into an inspirational movie montage. 
 
@@ -18,7 +18,7 @@ At times, flooring the gas pedal did push me to overcome real hurdles. But most 
 
 In my previous career as a guitarist, I was plagued by bodily tension. I had high-flying ambitions, and my strategy was the same: acceleration every time. Though I practiced for hours every day, my technique often suffered. My vibrato was too shaky, my forearms too stiff, my mind too chaotic to express itself.
 
-### Somatic Discovery
+## Somatic Discovery
 
 I’ve always had bad handwriting–someone once called it “boy handwriting.” But scrolling through past journal entries, a clear cycle emerged. Every few weeks, my pen stroke grew shaky, and the entries became more like a scheme and less like a reflection. The burden of trying to control my external reality was seizing my internal reality–holding my breath, furrowing my brows, and pursing my lips while I wrote. 
 
