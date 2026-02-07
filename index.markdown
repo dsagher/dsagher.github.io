@@ -11,7 +11,7 @@ Born and raised in Ann Arbor, Michigan. Former professional guitarist. Currently
 
 - [MindMosaic](https://www.mind-mosaic.co/)
 
-## Essays
+## Writing
 
 {% for post in site.posts %}
 - [{{ post.title }}]({{ site.baseurl }}{{ post.url }})
