@@ -10,6 +10,7 @@ Born and raised in Ann Arbor, Michigan. Former professional guitarist. Currently
 ## <img src="{{ site.baseurl }}/assets/images/Logo_new.png" alt="MindMosaic Logo" style="width: 16px; height: 16px; vertical-align: middle; margin-bottom: 5px;" /> MindMosaic 
 
 - [MindMosaic](https://www.mind-mosaic.co/)
+- [LinkedIn](https://www.linkedin.com/company/mindmosaic/)
 
 ## Writing
 
