@@ -1,5 +1,9 @@
+---
+layout: default
+title:  "On Momentum & Penmanship"
+date:   2026-02-07 5:56PM
+---
 # On Momentum & Penmanship
-
 *February 9th, 2026*
 
 When I realize my life is moving forward at all, my instinct is to make it move faster. 
