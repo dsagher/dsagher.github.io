@@ -6,11 +6,11 @@ date:   2026-01-11 12:41:06 -0500
 # On Discomfort & Distraction
 *January 11th, 2026*
 
-I’m often lured toward things that cost attention—many of which leave me feeling consumed rather than rewarded. Gawking at chaos in the morning; comparing careers at lunch; optimizing sleep by watching videos before bed. 
+Out of all my interactions with technology that cost attention, many leave me feeling more consumed than rewarded. Gawking at chaos in the morning; comparing careers at lunch; optimizing sleep by watching videos before bed. 
 
 Each has their own internal logic. To feel a part of things? Stay informed. To succeed professionally? Check in on my network. To feel better? Try to self-improve.
 
-However, this reasoning is not the reason, but a post-hoc explanation. In deliberate self-reflection, I can reason about why. But most of the time, engaging with technology happens unconsciously.
+However, this reasoning is not the reason, but a post-hoc explanation. In deliberate self-reflection, I can reason about why. But most of the time, engaging with technology happens without conscious thought.
 
 Though these aren't all bad reasons, too many of my interactions with tech are not about acquiring or producing information. They're about seeking relief from unexamined discomfort.
 
