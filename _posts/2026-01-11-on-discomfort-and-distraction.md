@@ -6,7 +6,7 @@ date:   2026-01-11 12:41:06 -0500
 # On Discomfort & Distraction
 *January 11th, 2026*
 
-Out of all my interactions with technology, many leave me feeling more consumed than rewarded. Gawking at chaos in the morning; comparing careers at lunch; optimizing sleep by watching videos before bed. 
+Out of all my interactions with technology, too many leave me feeling more consumed than rewarded. Gawking at chaos in the morning; comparing careers at lunch; optimizing sleep by watching videos before bed. 
 
 Each has their own internal logic. To feel a part of things? Stay informed. To succeed professionally? Check in online. To feel better? Self-improve.
 
