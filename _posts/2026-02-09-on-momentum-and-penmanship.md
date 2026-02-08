@@ -12,9 +12,9 @@ Last November 19th marked one year since my final chemotherapy session. While th
 
 ## Gaining Speed
 
-But instead of calmly noticing the beautiful starkness of my circumstances, I felt the urgent need to lean in and flip the “go-time” switch instead. “Who can I reach out to for the first time?” “What can I post online that will plant some flag?” Somewhere in the back of my mind, I felt like I was going to launch into an inspirational movie montage. 
+But instead of calmly noticing the beautiful starkness of my circumstances, I felt the urgent need to lean in and flip the “go-time” switch. “Who can I reach out to for the first time?” “What can I post online that will plant some flag?” Somewhere in the back of my mind, I felt like I was going to launch into an inspirational movie montage. 
 
-At times, flooring the gas pedal did push me to overcome real hurdles. But most of the time, it left me straining and sputtering, wanting reality to move at pace with my racing thoughts. Weeks would go by before I would realize how much tension I was accumulating–in my abdomen, face, and hands.
+At times, flooring the gas pedal did push me to overcome real hurdles. But most of the time, it left me straining and sputtering, wanting reality to move at pace with my racing thoughts. Weeks would go by before I noticed how much tension I was holding–in my abdomen, face, and hands.
 
 In my previous career as a guitarist, I was often held back by bodily tension. I had high-flying ambitions, and my strategy was the same: acceleration every time. Though I practiced for hours every day, my technique sometimes suffered. My vibrato too shaky, forearms too stiff, and my mind too chaotic to express itself.
 
