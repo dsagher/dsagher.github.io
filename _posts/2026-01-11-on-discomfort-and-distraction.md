@@ -12,7 +12,7 @@ Each has their own internal logic. To feel a part of things? Stay informed. To s
 
 However, this reasoning is not the reason, but a post-hoc explanation. In deliberate self-reflection, I can reason about why. But most of the time, engaging with technology happens unconsciously.
 
-Though these aren't all bad reasons, a significant amount of my interactions with tech are not about acquiring or producing information. They're about seeking relief from unexamined discomfort.
+Though these aren't all bad reasons, too many of my interactions with tech are not about acquiring or producing information. They're about seeking relief from unexamined discomfort.
 
 ## Examining Discomfort
 
