@@ -20,7 +20,7 @@ In my previous career as a guitarist, I was often held back by bodily tension. I
 
 ## Somatic Discovery
 
-I’ve always had bad handwriting. Someone once affectionately called it “boy handwriting.” But scrolling through past journal entries, a clear cycle emerged. Every few weeks, my pen stroke would grow shaky, and the entries more like a scheme and less like a reflection. The burden of failing to control external reality was seizing my ability to control my internal reality. That's why I was holding my breath, furrowing my brows, and pursing my lips while writing. 
+I’ve always had bad handwriting. Someone once affectionately called it “boy handwriting.” But scrolling through past journal entries, a clear cycle emerged. Every few weeks, my pen stroke would grow shaky, and the entries more like a scheme and less like a reflection. The burden of failing to control external reality was seizing my ability to control my internal reality. That's why I was holding my breath, furrowing my brows, and pursing my lips. 
 
 One morning, instead of scribbling my daily manifesto, I began following along with [this video](https://www.youtube.com/watch?v=5yOhqGC8hZc). The first few tries looked like someone relearning how to hold a pencil after a traumatic brain injury. But it quickly laid bare where all of that stress was being stored, allowing me to address it consciously. Fixing my handwriting became a way of untangling my mind from the outside in, forcing myself to come into contact with the speed of reality, and to begin accepting it.
 
