@@ -20,7 +20,7 @@ In 6th grade, I had pretty intense schoolaphobia. I benefitted a lot from a ther
 
 Structured talk therapy taught me how to poke holes in unconscious thought patterns. It made clear who in my life was only causing me pain, and who I was taking for granted. Therapy repeatedly brought me to the edge of my ability to put thoughts to words.
 
-But when I matured into my mid-twenties, I often found myself at a loss for those words. Not because my English vocabulary hadn't advanced at pace with my capacity for self-insight. Rather, I’d reached the point in my journey where words failed. Sessions started to leave me more exhausted than relieved. I'd try assigning meaning to situations in life that would otherwise be benign. I was trying to name things that couldn't be named, and drawing a blank almost every time. 
+But when I matured into my mid-twenties, I often found myself at a loss for those words. Not because my vocabulary hadn't advanced at pace with my capacity for self-insight. Rather, I’d reached a point in my journey where words failed. Sessions started to leave me more exhausted than relieved. I'd try assigning meaning to situations in life that would otherwise be benign. I was trying to name things that couldn't be named, and drawing a blank almost every time. 
 
 ## What Cannot Be Named
 
