@@ -12,7 +12,7 @@ Last November 19th marked one year since my final chemotherapy session. While th
 
 ## Gaining Speed
 
-Instead of calmly noticing the beautiful starkness of my circumstances, I felt the urgent need to flip some “go-time” switch. “Who can I reach out to for the first time?” “What can I post online that will plant some flag?” Somewhere in the back of my mind, I was waiting to launch into an inspirational movie montage. 
+Instead of calmly noticing the beautiful starkness of my situation, I felt the urgent need to flip some “go-time” switch. “Who can I reach out to for the first time?” “What can I post online that will plant some flag?” Somewhere in the back of my mind, I was waiting to launch into an inspirational movie montage. 
 
 Flooring the gas pedal has pushed me to overcome real hurdles. But most of the time, it leaves me straining and sputtering, wanting reality to move at the pace of my racing thoughts. Weeks would go by before I noticed how much tension I was holding.
 
