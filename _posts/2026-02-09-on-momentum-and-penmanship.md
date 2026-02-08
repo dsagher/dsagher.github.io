@@ -12,16 +12,16 @@ Last November 19th marked one year since my final chemotherapy session. While th
 
 ## Gaining Speed
 
-But instead of calmly noticing the beautiful starkness of my circumstances, I felt the urgent need to lean in and flip the “go-time” switch. “Who can I reach out to for the first time?” “What can I post online that will plant the flag?” Somewhere in the back of my mind, I felt like I was going to launch into an inspirational movie montage. 
+But instead of calmly noticing the beautiful starkness of my circumstances, I felt the urgent need to lean in and flip the “go-time” switch instead. “Who can I reach out to for the first time?” “What can I post online that will plant some flag?” Somewhere in the back of my mind, I felt like I was going to launch into an inspirational movie montage. 
 
 At times, flooring the gas pedal did push me to overcome real hurdles. But most of the time, it left me straining and sputtering, wanting reality to move at pace with my racing thoughts. Weeks would go by before I would realize how much tension I was accumulating–in my abdomen, face, and hands.
 
-In my previous career as a guitarist, I was plagued by bodily tension. I had high-flying ambitions, and my strategy was the same: acceleration every time. Though I practiced for hours every day, my technique often suffered. My vibrato was too shaky, my forearms too stiff, my mind too chaotic to express itself.
+In my previous career as a guitarist, I was often held back by bodily tension. I had high-flying ambitions, and my strategy was the same: acceleration every time. Though I practiced for hours every day, my technique sometimes suffered. My vibrato too shaky, forearms too stiff, and my mind too chaotic to express itself.
 
 ## Somatic Discovery
 
-I’ve always had bad handwriting–someone once called it “boy handwriting.” But scrolling through past journal entries, a clear cycle emerged. Every few weeks, my pen stroke grew shaky, and the entries became more like a scheme and less like a reflection. The burden of trying to control my external reality was seizing my internal reality–holding my breath, furrowing my brows, and pursing my lips while I wrote. 
+I’ve always had bad handwriting–someone once affectionately called it “boy handwriting.” But scrolling through past journal entries, a clear cycle emerged. Every few weeks, my pen stroke grew shaky, and the entries became more like a scheme and less like a reflection. The burden of failing to control external reality was seizing my ability to control my internal reality. That's why I was holding my breath, furrowing my brows, and pursing my lips while writing. 
 
 One morning, instead of scribbling my daily manifesto, I began following along with [this video](https://www.youtube.com/watch?v=5yOhqGC8hZc). The first few tries looked like someone relearning how to hold a pencil after a traumatic brain injury. But it quickly laid bare where all of that stress was being stored. Fixing my handwriting became a way of untangling my mind from the outside in, forcing myself to come into contact with the speed of reality, and to begin accepting it.
 
-I try to treat living an ambitious life like a beating heart. Pushing it is necessary to move forward, and stagnation is dangerous. But being in a state of constant spike will damage my mind and body. And though it’s still tempting to always chase the high of sprinting, I’d rather settle in for the long run.
+I try to treat living an ambitious life like a beating heart. Pushing it is necessary to move forward, and stagnation is dangerous. But being in a state of constant spike will damage my mind and body. And though it’s still tempting to always chase the high of the sprint, I’d rather settle in for the long run.
