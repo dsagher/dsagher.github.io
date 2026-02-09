@@ -25,7 +25,6 @@ But when I matured into my mid-twenties, I often found myself at a loss for thos
 ## What Cannot Be Named
 
 The weight of that discomfort that can't be named hit me around 27. I had stopped therapy and started journaling. I'd write a page every morning, analyzing the day before and declaring how I'll treat the day ahead differently. I liked starting my day with a cup of coffee and a pen. 
-
 But after a few *Moleskines*, I started falling into the same habits as before. Still white-knuckling life, ruminating on things that didn't deserve second thoughts.
 
 One morning, I was staring over a notebook, tired of recounting, repenting, and resetting. So I tried nothing. It wasn’t long before I began shifting in my chair, looking around, reaching for my pen, phone–anything. So uncomfortable, that I went back to writing.
