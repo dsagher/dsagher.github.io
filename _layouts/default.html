@@ -17,14 +17,29 @@
     <!-- <meta name="twitter:description" content="{{ page.description | default: site.description }}"> -->
     <meta name="twitter:image" content="{{ site.baseurl }}/assets/images/DS306.png">
 
-    <!-- Fallback favicon for mobile browsers that don't support media queries -->
-    <link rel="icon" type="image/png" href="{{ site.baseurl }}/assets/images/DS306.png">
     <!-- Theme-aware favicons for desktop browsers -->
-    <link rel="icon" type="image/png" href="{{ site.baseurl }}/assets/images/DS306.png" media="(prefers-color-scheme: light)">
-    <link rel="icon" type="image/png" href="{{ site.baseurl }}/assets/images/DS_Dark.png" media="(prefers-color-scheme: dark)">
+    <link rel="icon" type="image/png" href="{{ site.baseurl }}/assets/images/DS306.png" media="(prefers-color-scheme: light)" id="favicon-light">
+    <link rel="icon" type="image/png" href="{{ site.baseurl }}/assets/images/DS_Dark.png" media="(prefers-color-scheme: dark)" id="favicon-dark">
+    <!-- Fallback favicon for mobile browsers (must come last for Safari) -->
+    <link rel="icon" type="image/png" href="{{ site.baseurl }}/assets/images/DS306.png" id="favicon-default">
     <link rel="apple-touch-icon" href="{{ site.baseurl }}/assets/images/DS306.png">
     <!-- Web App Manifest for Android Chrome -->
     <link rel="manifest" href="{{ site.baseurl }}/manifest.json">
+    <script>
+      // Fix favicon for Safari iOS which doesn't support media queries on favicon links
+      (function() {
+        var favicon = document.getElementById('favicon-default');
+        if (favicon && window.matchMedia) {
+          var darkMode = window.matchMedia('(prefers-color-scheme: dark)').matches;
+          favicon.href = darkMode ? '{{ site.baseurl }}/assets/images/DS_Dark.png' : '{{ site.baseurl }}/assets/images/DS306.png';
+          
+          // Listen for changes
+          window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', function(e) {
+            favicon.href = e.matches ? '{{ site.baseurl }}/assets/images/DS_Dark.png' : '{{ site.baseurl }}/assets/images/DS306.png';
+          });
+        }
+      })();
+    </script>
     <style>
       body {
         margin: 40px 0 0 100px;
@@ -61,10 +76,10 @@
 
       .home-button {
         position: fixed;
-        top: 10px;
+        top: 15px;
         left: 10px;
-        font-size: 12px;
-        padding: 4px 8px;
+        font-size: 13px;
+        padding: 5px 10px;
         background-color: rgba(41, 36, 30, 0.8);
         border: 1px solid rgba(116, 216, 255, 0.3);
         border-radius: 3px;
@@ -93,10 +108,10 @@
           line-height: 1.7;
         }
         .home-button {
-          top: 5px;
+          top: 10px;
           left: 5px;
-          font-size: 11px;
-          padding: 3px 6px;
+          font-size: 12px;
+          padding: 4px 8px;
         }
         body.has-home-button .content-wrapper {
           padding-top: 25px;
