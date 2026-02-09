@@ -40,25 +40,10 @@
         }
       })();
       
-      // Force home button to stay fixed on scroll
-      (function() {
-        var homeButton = document.querySelector('.home-button');
-        if (homeButton) {
-          var updatePosition = function() {
-            homeButton.style.position = 'fixed';
-            homeButton.style.top = window.innerWidth <= 700 ? '10px' : '15px';
-            homeButton.style.left = window.innerWidth <= 700 ? '5px' : '10px';
-          };
-          
-          updatePosition();
-          window.addEventListener('scroll', updatePosition, { passive: true });
-          window.addEventListener('resize', updatePosition);
-        }
-      })();
     </script>
     <style>
       html {
-        position: relative;
+        overflow-x: hidden;
       }
       
       body {
@@ -69,7 +54,6 @@
         color: rgb(246, 243, 236);
         background-color: rgb(41, 36, 30);
         font-family: Georgia, "Times New Roman", Times, serif;
-        position: relative;
       }
 
       h1, h2, h3 {
@@ -96,11 +80,9 @@
       }
 
       .home-button {
-        position: fixed !important;
-        top: 15px !important;
-        left: 10px !important;
-        right: auto !important;
-        bottom: auto !important;
+        position: fixed;
+        top: 15px;
+        left: 10px;
         font-size: 13px;
         padding: 5px 10px;
         background-color: rgba(41, 36, 30, 0.8);
@@ -112,6 +94,8 @@
         transition: background-color 0.2s;
         margin: 0;
         display: inline-block;
+        -webkit-transform: translateZ(0);
+        transform: translateZ(0);
       }
 
       .home-button:hover {
@@ -133,8 +117,8 @@
           line-height: 1.7;
         }
         .home-button {
-          top: 10px !important;
-          left: 5px !important;
+          top: 10px;
+          left: 5px;
           font-size: 14px;
           padding: 5px 9px;
         }
