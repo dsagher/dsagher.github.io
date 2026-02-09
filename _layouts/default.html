@@ -94,7 +94,9 @@
     </style>
   </head>
   <body>
+    {% unless page.url == '/' or page.url == '/index.html' %}
     <a href="https://www.dansagher.com" class="home-button">home</a>
+    {% endunless %}
     {{ content }}
   </body>
 </html>
