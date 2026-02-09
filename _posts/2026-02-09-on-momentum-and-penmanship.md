@@ -6,13 +6,13 @@ date:   2026-02-07 5:56PM
 # On Momentum & Penmanship
 *February 7th, 2026*
 
-When I realize my life is moving forward at all, my instinct is to make it move faster. 
+When I realize my life is moving forward, my instinct is to make it move faster. 
 
-Last November 19th marked one year since my final chemotherapy session. While the day was unremarkable, how much everything had changed was not. I had been so sick, so recently. But now I was pursuing a master’s, exploring entrepreneurship, and dating. Life started to feel more poetic, less tragic.
+November 19th, 2025 marked one year since my final chemotherapy session. While the day was unremarkable, how much everything had changed was not. I had been so sick, so recently. But now I was pursuing a master’s, exploring entrepreneurship, and dating. Life started to feel more poetic, less tragic.
 
 ## Gaining Speed
 
-Instead of calmly noticing the beautiful starkness of my situation, I felt the urgent need to flip some “go-time” switch. “Who can I reach out to for the first time?” “What can I post online that will plant some flag?” Somewhere in the back of my mind, I was waiting to launch into an inspirational movie montage. 
+Instead of calmly noticing the beautiful contrast of my circumstances, I felt the urgent need to flip some “go-time” switch. “Who can I reach out to for the first time?” “What can I post online that will plant some flag?” Somewhere in the back of my mind, I was waiting to launch into an inspirational movie montage. 
 
 Flooring the gas pedal has pushed me to overcome real hurdles. But most of the time, it leaves me straining and sputtering, wanting reality to move at the pace of my racing thoughts. Weeks would go by before I noticed how much tension I was holding.
 

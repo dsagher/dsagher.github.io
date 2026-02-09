@@ -24,10 +24,10 @@ But when I matured into my mid-twenties, I often found myself at a loss for thos
 
 ## What Cannot Be Named
 
-The weight of that discomfort that can't be named hit me around 27. I had stopped therapy and started journaling. I'd write a page every morning, analyzing the day before and declaring how I'll treat the day ahead differently. I liked starting my day with a cup of coffee and a pen. 
+The weight of discomfort that can't be named hit around 27. I had stopped therapy and started journaling. I'd write a page every morning, analyzing the day before and declaring how I'll treat the day ahead differently. I liked starting my day with a cup of coffee and a pen. 
 But after a few *Moleskines*, I started falling into the same habits as before. Still white-knuckling life, ruminating on things that didn't deserve second thoughts.
 
-One morning, I was staring over a notebook, tired of recounting, repenting, and resetting. So I tried nothing. It wasn’t long before I began shifting in my chair, looking around, reaching for my pen, phone–anything. So uncomfortable, that I went back to writing.
+One morning, I was staring at my notebook, tired of recounting, repenting, and resetting. So I tried nothing. It wasn’t long before I began shifting in my chair, looking around, reaching for my pen, phone–anything. So uncomfortable, that I went back to writing.
 
 > *I’m so uncomfortable that I don’t know what else to do other than write. I'm just writing to occupy the space.*
 
@@ -37,6 +37,6 @@ A page of nothing, to avoid being.
 
 My relationship with technology is complicated. I’m fortunate to be writing this on beautiful free software, with the expectation that someone I’ve never met is going to read it. But I still romanticize scenes in period pieces where a character looks longingly out of a window, unburdened by the option to look away.
 
-Attention has become something I go in and out of practice with. When I go without training it, life quickly narrows and numbs; when I stay with it long enough, the discomfort diminishes, revealing almost nothing but clarity.
+Paying attention has become something I go in and out of practice with. When I go without training it, life quickly narrows and numbs; when I stay with it long enough, the discomfort slips away, revealing almost nothing but calmness and clarity.
 
 For now, it means practicing small pockets of nothing, and noticing what remains when I don’t immediately reach for relief.
