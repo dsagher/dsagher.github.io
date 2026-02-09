@@ -54,15 +54,42 @@
         width: auto;
       }
 
+      .home-button {
+        position: fixed;
+        top: 10px;
+        left: 10px;
+        font-size: 12px;
+        padding: 4px 8px;
+        background-color: rgba(41, 36, 30, 0.8);
+        border: 1px solid rgba(116, 216, 255, 0.3);
+        border-radius: 3px;
+        text-decoration: none;
+        color: #74d8ff;
+        z-index: 1000;
+        transition: background-color 0.2s;
+      }
+
+      .home-button:hover {
+        background-color: rgba(41, 36, 30, 0.95);
+        border-color: rgba(116, 216, 255, 0.5);
+      }
+
       @media (max-width: 700px) {
         body {
           margin: 20px;
           line-height: 1.7;
         }
+        .home-button {
+          top: 5px;
+          left: 5px;
+          font-size: 11px;
+          padding: 3px 6px;
+        }
       }
     </style>
   </head>
   <body>
+    <a href="https://www.dansagher.com" class="home-button">home</a>
     {{ content }}
   </body>
 </html>
