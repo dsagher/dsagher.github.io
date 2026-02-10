@@ -14,7 +14,7 @@ November 19th, 2025 marked one year since my final chemotherapy session. While t
 
 Instead of calmly noticing the beautiful contrast of my circumstances, I felt the urgent need to flip some “go-time” switch. “Who can I reach out to for the first time?” “What can I post online that will plant some flag?” Somewhere in the back of my mind, I was waiting to launch into an inspirational movie montage. 
 
-Flooring the gas pedal has pushed me to overcome real hurdles. But most of the time, it leaves me straining and sputtering, wanting reality to move at the pace of my racing thoughts. Weeks would go by before I noticed how much tension I was holding.
+Flooring the gas pedal has pushed me to overcome real hurdles. But most of the time, it leaves me straining and sputtering, wanting reality to move at the pace of my racing thoughts. Weeks could go by before I noticed how much tension I was holding.
 
 In my previous career as a guitarist, I was often held back by bodily tension. I had high-flying ambitions, and my strategy was the same: acceleration every time. Though I practiced for hours every day, my technique sometimes suffered. My vibrato too shaky, forearms too stiff, and my mind too chaotic to express itself.
 
