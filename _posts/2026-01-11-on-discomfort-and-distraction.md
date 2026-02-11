@@ -16,7 +16,7 @@ Though these aren't all bad reasons, too many of my interactions with tech are n
 
 ## Examining Discomfort
 
-In 6th grade, I had pretty intense schoolaphobia. I benefitted a lot from a therapist helping me to name and reframe things. But in high school, I stopped therapy and drifted a lot. In college, a very special therapist helped me put my life back together.
+In 6th grade, I had pretty intense schoolaphobia. I benefitted a lot from a therapist helping me to name and reframe things. In high school, I stopped therapy and drifted a lot. In college, a very special therapist helped me put my life back together.
 
 Structured talk therapy taught me how to poke holes in unconscious thought patterns. It made clear who in my life was only causing me pain, and who I was taking for granted. Therapy repeatedly brought me to the edge of my ability to put thoughts to words.
 
