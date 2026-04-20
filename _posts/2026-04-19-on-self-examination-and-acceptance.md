@@ -78,7 +78,7 @@ Less than a week after my appendectomy, I was back in the operating room.
 
 ## June-September 2024
 
-Getting diagnosed with testicular cancer forced me to a screeching halt. Seeing the crevasse between my expectations and my reality widen so abruptly, I understood now more than ever that I knew nothing. Sometimes, I even forgot about Fort Greene. I gave myself until Fall to return to NYC. 
+Getting diagnosed with testicular cancer forced me to a screeching halt. Seeing the crevasse between my expectations and my reality widen so abruptly, I understood now more than ever that I knew nothing. I even forgot about Fort Greene a bit. I gave myself until Fall to return to NYC. 
 
 But as September grew closer, I began to accelerate. I was applying to jobs in NYC, exercising as much as my body would allow, and reconstructing a mental image of what my future would look like. Maybe it wasn’t going to be as simple as *learn to code,* *get the girl, achieve final form—*but there was still something real to work toward. I was getting ready to lay claim to the city for real this time. 
 
@@ -90,7 +90,7 @@ The plan was to get a blood test on Thursday, receive the results on Friday, and
 
 I was washing my hands at 9 a.m. Friday when I got a call from my doctor. I saw the hospital number on my phone, which was resting on the sink. My hands still wet, I accepted the call and put it on speaker. I heard the distorted and hurried voice of my oncologist, “Hi Daniel. So, your hCG went back up, indicating the cancer has spread. The next course of action is chemotherapy. The schedulers will call you to get everything set up for the next few months.”
 
-My vision narrowed. I felt the aperture of my life fully constrict. Everything I had spent my young adult life concerned with—meaning through work, approval from friends, partners, and strangers—ceased to exist in a single instant. My usually loud inner monologue became an empty void—leaving what was right in front of me: My childhood bedroom; this weakened and scarred body beneath me; and this simple urge to not die yet.
+My vision narrowed, like the the aperture of my life was constricting. Everything I had spent my young adult life concerned with—meaning through work, approval from friends, partners, and strangers—ceased to exist in a single instant. My usually loud inner monologue became an empty void—leaving what was right in front of me: My childhood bedroom; this weakened and scarred body beneath me; and this simple urge to not die yet.
 
 I still did get to return to New York on Monday. Not to live, but to leave. My lease was ending in the Fall, and I had to move out before starting treatment.
 
