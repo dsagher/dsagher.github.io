@@ -4,7 +4,7 @@ title:  "On Self-Examination & Acceptance"
 date:   2026-04-19 8:28 PM
 ---
 # On Self-Examination & Acceptance
-*April 19th, 2026*
+*April 19th, 2026* • *10-12 minute read*
 
 ## December 2023-May 2024
 
@@ -115,7 +115,5 @@ The pain in my arm and the complete and total dissolution of my future as I knew
 A girl I knew from an old summer job had reached out to me during my treatment, telling me that she had been fighting stage 4 breast cancer for a long time. We struck up a little friendship over text—long texts about our diagnoses, treatment, and tips and tricks to get through the day. I was grateful for my prognosis. She was grateful for the times she was able to stand in the shower.
 
 As I was emerging out of the most difficult part of my cancer battle—around the holidays—she stopped responding. I waited a couple of weeks. I wasn’t sure what to do, so I Googled her name. I found her obituary—she was 34.
-
-She was only a few years older than me, and she lost her life as I moved forward with mine.
 
 A little while after I finished treatment, I went out to a pub in Ann Arbor with two of my closest friends, who were in from New York. I had known them for a decade, since before they even knew each other. Now, they were engaged. They asked me if there was anything I learned out of that whole experience. An old part of me wanted for a moment to have something profound to say—to be able to compress my entire experience into a single brilliant nugget of wisdom that would carry me forward into this new chapter, while enriching the lives of everyone fortunate enough to hear it. But I drew a blank. “Not really. It just sucked, man.”
