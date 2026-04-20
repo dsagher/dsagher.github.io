@@ -12,7 +12,7 @@ I stepped off stage at a sold-out Esplanade in Singapore—a golden theater near
 
 “This must be because of my deadlift form or something” I told myself as I played Indie Pop/R&B across the Far East. But the feeling that I was building a life I didn’t want to keep living was still there.
 
-I was touring intermittently with a signed artist, teaching privately out of my apartment, and playing in a wedding band. I was stable, but every month was a crunch. I had recently dated a girl who didn’t want to move forward with our relationship because she didn't want to start a life with a musician. Fair—I’m not sure I would have either. But at the time, I wasn’t so understanding when she left me for a data analyst.
+I was touring intermittently, teaching privately out of my apartment, and playing in a wedding band. I was stable, but every month was a crunch. I had recently dated a girl who didn’t want to move forward with our relationship because she didn't want to start a life with a musician. Fair—I’m not sure I would have either. But at the time, I wasn’t so understanding when she left me for a data analyst.
 
 I was living in Northern Bedford-Stuyvesant at the time, in a small duplex with a steep indoor walkup. We had no living room and our kitchen was the size of a closet, but the rooms were big. My bedroom had a decommissioned fireplace and faced a one-way avenue that filled each morning at 7 a.m. with commuters waiting for the bus into downtown Brooklyn. The noise was inescapable. 
 
