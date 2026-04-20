@@ -110,7 +110,7 @@ One morning, the veins in my forearm were so receded and scarred that the nurse 
 
 The pain in my arm and the complete and total dissolution of my future as I knew it was almost too much to bear in that moment. But the VAS team needed me to be incredibly still. The only option I had was to resign completely—to leave it to my body and to modern medicine. On the final attempt, my body felt the pain—but I had already let go.
 
-### After It All
+## After It All
 
 A girl I knew from an old summer job had reached out to me during my treatment, telling me that she had been fighting stage 4 breast cancer for a long time. We struck up a little friendship over text—long texts about our diagnoses, treatment, and tips and tricks to get through the day. I was grateful for my prognosis. She was grateful for the times she was able to stand in the shower.
 
