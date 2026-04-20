@@ -58,7 +58,7 @@ I spent the next week or so coding from my mom’s couch and wondering if every 
 
 I went under not knowing what waited for me on the other side—whether Dr. P would be able to leave my poor abdomen intact or not. As I emerged from the anesthesia, I was told she was able to remove my appendix without issue. Everyone was relieved. 
 
-I was back home, and the worst was avoided. Within a couple of days, I was walking slowly, barefoot across my mom’s backyard, almost excited at the opportunity to reinvent my gait. Despite yet another scar, I was able to slow down for a moment. 
+I was back home, and the worst was avoided. Within a couple of days, I was walking slowly, barefoot across my mom’s backyard, almost excited at the opportunity to reinvent my gait. Despite yet another scar, the slowness felt nice. 
 
 I wasn’t exactly new to moderate medical misfortune—I’d had numerous surgeries and procedures in the past, more than most people I knew—for issues ranging from inconvenient to concerning. This was just the next on the list. I spoke about the whole thing with an air of *this is a pretty wild turn of events, am-I-right?* 
 
