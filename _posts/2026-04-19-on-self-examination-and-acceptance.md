@@ -64,7 +64,7 @@ I was still looking toward and living for the future. I couldn’t wait to get b
 
 ## June-August 2024
 
-While getting out of the shower on June 12th, I noticed that my right testicle had swelled up to the size of a plastic Easter egg. I messaged Dr. P to ask if it was normal. She ordered an ultrasound for the next day.
+Just a few days later, while getting out of the shower, I noticed that my right testicle had swelled up to the size of a plastic Easter egg. I messaged Dr. P to ask if it was normal. She ordered an ultrasound for the next day.
 
 On my way home from the radiologist, I got a call from my urologist. He asked me to come to his office. There, he turned his Dell monitor toward me and showed a black and white image. The screen was eclipsed by a dark oval in the center. My right testicle had been completely replaced by a large vascularized mass, measuring 4.9 x 3.2 x 4.4 cm. It had probably been there for some time, and the appendectomy caused it to swell. “We need to get you into surgery as soon as possible. Preferably tomorrow.”
 
@@ -72,7 +72,7 @@ My young adulthood had been punctuated with deep urges to go completely fetal—
 
 “Testicular cancer has a greater than 90% cure rate. If you had to get any cancer, you’d want this one.” My doctor assured me, right before the levee fully broke for the first time. I told the doctor I was ready to do this, and left to call my parents and friends. 
 
-On June 14th, I was back in the operating room.
+Less than a week after my appendectomy, I was back in the operating room.
 
 ## June-September 2024
 
