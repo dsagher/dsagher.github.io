@@ -3,6 +3,8 @@ layout: default
 title:  "On Self-Examination & Acceptance"
 date:   2026-04-19 8:28 PM
 ---
+# On Self-Examination & Acceptance
+*April 19th, 2026*
 
 ## December 2023-May 2024
 
