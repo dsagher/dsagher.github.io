@@ -14,7 +14,7 @@ I stepped off stage at a sold-out Esplanade in Singapore—a golden theater near
 
 I was touring intermittently, teaching privately out of my apartment, and playing in a wedding band. I was stable, but every month was a crunch. I had recently dated a girl who didn’t want to move forward with our relationship because she didn't want to start a life with a musician. Fair—I’m not sure I would have either. But at the time, I wasn’t so understanding when she left me for a data analyst.
 
-I was living in Northern Bedford-Stuyvesant at the time, in a small duplex with a steep indoor walkup. We had no living room and our kitchen was the size of a closet, but the rooms were big. My bedroom had a decommissioned fireplace and faced a one-way avenue that filled each morning at 7 a.m. with commuters waiting for the bus into downtown Brooklyn. The noise was inescapable. 
+I was living in Northern Bedford-Stuyvesant at the time, in a small duplex with a steep indoor walkup. We had no living room, and our kitchen was the size of a closet, but the rooms were big. My bedroom had a decommissioned fireplace and faced a one-way avenue that filled each morning at 7 a.m. with commuters waiting for the bus into downtown Brooklyn. The noise was inescapable. 
 
 Growing up, I heard that if you want to increase your lot in life, learn to code. So that’s what I did, and I found that I rather enjoyed it. I spent my days at my desk—coding, eating, playing guitar during breaks. At night, I would put on my least ill-fitting outfit and mosey into Fort Greene and walk amongst the yuppies. *I bet that guy knows how to code or whatever—*referring to the guy with a symmetrical face sitting at a small round table outside of a restaurant with a beautiful wife, dog-in-lap. Now *that’s* the life. 
 
@@ -22,7 +22,7 @@ Growing up, I heard that if you want to increase your lot in life, learn to code
 
 On April 10th, I had surgery for that hernia. The whole thing went to shit—and the culprit was a burrito.
 
-I offered lunch to one of my closest friends if he’d escort me back from the hospital. He would have done it regardless, but I was really digging this spot near me in Brooklyn—a small Mexican grocery store that opened up to a cafeteria-style restaurant in the back; the kind of place that fills up with Doordash drivers—not picking up orders, but eating. I hadn’t eaten since the night before. By 3pm, I was very hungry.
+I offered lunch to one of my closest friends if he’d escort me back from the hospital. He would have done it regardless, but I was really digging this spot near me in Brooklyn—a small Mexican grocery store that opened up to a cafeteria-style restaurant in the back; the kind of place that fills up with Doordash drivers—not picking up orders but eating. I hadn’t eaten since the night before. By 3pm, I was very hungry.
 
 Maybe it was because my judgment was impaired from anesthesia. Maybe it was because my mom was 600 miles away and couldn’t stop me. Maybe I’m an idiot. Whatever the reason was, mere hours after a robot had sewn a synthetic mesh the size of a DVD into my abdominal wall, I saw no reason not to eat that whole burrito.
 
@@ -32,7 +32,7 @@ The doctor either forgot or thought I was worthy of damnation, but I was sent ho
 
 I was carried out of my apartment in a stretcher by two burly yet baby-faced EMT’s from the outer boroughs, accompanied by a soft-spoken yet firm orthodox Jewish nurse in training. The street was completely empty, and the vegan restaurant across the street from me was lit up by the ambulance lights. I had shorts and a t-shirt on, and the spring rain was ice-cold on my skin. I was shivering uncontrollably. I had no choice but to put my life in the hands of this unlikely, yet uniquely New York team of children.
 
-I was taken back to the same hospital I was in just a day earlier and was filled with morphine. I stopped shivering. My quest for Fort Greene yuppie-dom was off to a rough start.
+I was taken back to the same hospital I was in just a day earlier and was filled with morphine. I stopped shivering. My quest for Fort Greene yuppiedom was off to a rough start.
 
 The doctor told me I had a post-operative ileus—which is when your intestines stop working after a traumatic abdominal event. The partially digested burrito was exerting outward pressure on my internal stitches—so, I was almost right about the *Alien* theory. I spent the night at the hospital getting ignored by attractive and overworked ER nurses who were probably more concerned with drug overdoses than burrito overdoses.
 
@@ -44,11 +44,11 @@ On Friday, May 24th, while I was coding in bed, my right side started seizing up
 
 When the doctor told me I have appendicitis, the first thing I did was laugh. The detour toward my future is evidently going to be a little longer than I expected. But no problem—appendicitis is just a rite of passage—like getting your wisdom teeth out or your Bar Mitzvah. It will definitely be a good story to tell.
 
-The surgeon didn’t seem to think it was so funny. She told me that to perform surgery, they might have to go through the plastic disk in my abdomen, effectively *undoing* the hernia surgery. “Would that mean I would have to get *another hernia surgery?*” I asked. She wasn’t able to rule it out. They put me on antibiotics to see if we could avoid surgery altogether and I was discharged two days later.
+The surgeon didn’t seem to think it was so funny. She told me that to perform surgery, they might have to go through the plastic disk in my abdomen, effectively *undoing* the hernia surgery. “Would that mean I would have to get *another hernia surgery?*” I asked. She couldn't rule it out. They put me on antibiotics to see if we could avoid surgery altogether and I was discharged two days later.
 
 I walked to the top of Fort Greene Park in a haze. It was a perfect Brooklyn summer day: young people skateboarding around the Prison Ship Martyrs Monument, couples running up and down the stairs, and families sitting on the grass. But the whole scene was imbued with a foreboding heaviness—my place among it all felt tenuous.
 
-If I did, in fact, need to go through this diabolical combo of an appendectomy and second hernia repair, I knew I couldn’t do it alone. I booked a red-eye back home to Ann Arbor, Michigan that night. My body was not done with me yet.
+If I did, in fact, need to go through this diabolical combo of an appendectomy and second hernia repair, I knew I couldn’t do it alone. I booked a red eye back home to Ann Arbor, Michigan that night. My body was not done with me yet.
 
 ## June 2024
 
@@ -68,7 +68,7 @@ I was still looking toward and living for the future. I couldn’t wait to get b
 
 Just a few days later, while getting out of the shower, I noticed that my right testicle had swelled up to the size of a plastic Easter egg. I messaged Dr. P to ask if it was normal. She ordered an ultrasound for the next day.
 
-On my way home from the radiologist, I got a call from my urologist. He asked me to come to his office. There, he turned his Dell monitor toward me and showed a black and white image. The screen was eclipsed by a dark oval in the center. My right testicle had been completely replaced by a large vascularized mass, measuring 4.9 x 3.2 x 4.4 cm. It had probably been there for some time, and the appendectomy caused it to swell. “We need to get you into surgery as soon as possible. Preferably tomorrow.”
+On my way home from the radiologist, I got a call from my urologist. He asked me to come to his office. There, he turned his Dell monitor toward me and showed a black and white image. The screen was eclipsed by a dark oval in the center. My right testicle had been completely replaced by a large, vascularized mass, measuring 4.9 x 3.2 x 4.4 cm. It had probably been there for some time, and the appendectomy caused it to swell. “We need to get you into surgery as soon as possible. Preferably tomorrow.”
 
 My young adulthood had been punctuated with deep urges to go completely fetal—urges to surrender so completely that the *real* adults in the room would step in and fix whatever was wrong. Watching movies almost never draws real tears for me, except for seeing guys my age and younger being bombed out in a foxhole, crying for their mothers.
 
@@ -94,13 +94,13 @@ My vision narrowed. I felt the aperture of my life fully constrict. Everything I
 
 I still did get to return to New York on Monday. Not to live, but to leave. My lease was ending in the Fall, and I had to move out before starting treatment.
 
-Alone, I drove in that night through lower Manhattan on my way to the Williamsburg Bridge. Packs of stylish, charismatic twenty-somethings were everywhere—going in and out of bars and smoking cigarettes on the sidewalks. They looked straight out of central casting. The kind of people, living the kind of life, that used to fill me with envy. But now, I felt none of it. I reached the bridge and looked around me. The city was so beautiful, and I cried.
+Alone, I drove in that night through lower Manhattan on my way to the Williamsburg Bridge. Packs of stylish, charismatic twenty-somethings were everywhere going in and out of bars and smoking cigarettes on the sidewalks. They looked straight out of central casting. The kind of people, living the kind of life, that used to fill me with envy. But now, I felt none of it. I reached the bridge and looked around me. The city was so beautiful, and I cried.
 
 The next few days were spent packing up my apartment and saying goodbye to friends. I wondered if some of them thought it might be the last time they would ever see me.
 
 ## September-December 2024
 
-The world was shifting beneath my feet—the leaves changing outside my window, the 2024 presidential election. All of my plans had fallen apart in front of my eyes—my musical career, my life in New York, and my health.
+The world was shifting beneath my feet—the leaves changing outside my window, the 2024 presidential election. All my plans had fallen apart in front of my eyes—my musical career, my life in New York, and my health.
 
 Some weeks, I spent over 40 hours in infusion. I lost 30 pounds. All my hair fell out. I developed tinnitus and sometimes couldn’t even keep water down. I had no room for earthly desires to distract me. No energy for reflection to ground me. No plans to return to New York—no plans at all.
 
